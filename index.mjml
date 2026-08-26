@@ -187,16 +187,19 @@
         </mj-section>
 
         <mj-section padding="0 23px 30px 23px">
-            <mj-column width="50%" padding="0 10px 15px 10px">
-                <mj-button font-family="Roboto, Arial, sans-serif" background-color="#FF3158" color="#2B2A2A" font-size="18px" line-height="23px" font-weight="bold" padding="0" inner-padding="20px 60px 20px 60px" align="left" border-radius="14px" width="100%" align="center" href="#">
-                    Performance Kit<br />
-                    <span style="color: #FFFFFF; font-weight: bold;">SG $6,300</span>
+            <mj-column width="48%">
+                <mj-button font-family="Roboto, Arial, sans-serif" background-color="#FF3158" color="#2B2A2A" font-size="18px" line-height="23px" font-weight="bold" padding="0" inner-padding="20px" border-radius="14px" width="100%" align="center" href="#">
+                    <span style="white-space: nowrap;">Performance Kit<br />
+                    <span style="color: #FFFFFF; font-weight: bold;">SG $6,300</span></span>
                 </mj-button>
             </mj-column>
-            <mj-column width="50%" padding="0 10px 15px 10px">
-                <mj-button font-family="Roboto, Arial, sans-serif" background-color="#2B2A2A" color="#FF3158" font-size="18px" line-height="23px" font-weight="bold" padding="0" inner-padding="20px 60px 20px 60px" align="left" border-radius="14px" width="100%" align="center" href="#">
-                    Pro3 Camera<br />
-                    <span style="color: #FFFFFF; font-weight: bold;">SG $5,600</span>
+            <mj-column width="4%">
+                <mj-spacer height="20px" />
+            </mj-column>
+            <mj-column width="48%">
+                <mj-button font-family="Roboto, Arial, sans-serif" background-color="#2B2A2A" color="#FF3158" font-size="18px" line-height="23px" font-weight="bold" padding="0" inner-padding="20px" border-radius="14px" width="100%" align="center" href="#">
+                    <span style="white-space: nowrap;">Pro3 Camera<br />
+                    <span style="color: #FFFFFF; font-weight: bold;">SG $5,600</span></span>
                 </mj-button>
             </mj-column>
         </mj-section>
