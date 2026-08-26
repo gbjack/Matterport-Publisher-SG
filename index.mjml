@@ -1,0 +1,232 @@
+<mjml lang="en" dir="ltr">
+	<mj-head>
+		<mj-title>Meet Matterport's 3D Model for Build Projects</mj-title>
+		<mj-preview>Bring your site, design and as-built documentation onto one platform.</mj-preview>
+		<mj-attributes>
+		<mj-all padding="0" />
+		<mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF" />
+		</mj-attributes>
+
+		<mj-raw>
+			<meta name="color-scheme" content="dark" />
+			<meta name="supported-color-schemes" content="dark" />
+		</mj-raw>
+        
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
+
+		<mj-style>
+            * { -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important; } 
+            a[x-apple-data-detectors], p, li { text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; } 
+            body { margin: 0; padding: 0; }
+            [data-ogsc] .body-wrapper, [data-ogsb] .body-wrapper { background-color: #000000 !important; }
+            .body-wrapper { background-image: linear-gradient(#000000, #000000) !important; }
+            .ReadMsgBody { width: 100%; } 
+            .ExternalClass { width: 100%; }
+            .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; }
+            a.MsoHyperlink, span.MsoHyperlink { mso-style-priority:99; color: inherit; }
+            a.MsoHyperlinkFollowed, span.MsoHyperlinkFollowed { mso-style-priority: 99; color: inherit; }
+            p, td, div { mso-line-height-rule: exactly; }
+            u + .body-wrapper a { color: inherit; text-decoration: none; font-size: inherit; font-family: inherit; font-weight: inherit; line-height: inherit; }
+            .a6S { display: none !important; opacity: 0.01 !important; }
+            img.g-img + div { display: none !important; }
+            .im { color: inherit !important; }
+            a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+        </mj-style>
+		
+	</mj-head>
+    
+	<mj-body css-class="body-wrapper" background-color="#000000">
+
+		<mj-section>
+			<mj-column>
+				<mj-image src="img/img-logo-138x28.png" alt="Matterport Logo" width="138px" align="left" padding="23px 23px 23px 22px" />
+			</mj-column>
+		</mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-image src="img/img-hero-600x318.jpg" alt="Beyond the Scans header image" width="600px" align="center" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="50px 23px 0 23px">
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    Hi [First Name],
+                </mj-text>
+                <mj-spacer height="25px" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    Teams using Matterport are cutting site visits by 75% and taking 20% less time to complete projects with remote access. Between TOP submissions, BCA compliance checks and inspections, that's the kind of time your team can't get back once it's gone.
+                </mj-text>
+                <mj-spacer height="25px" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    That's where Matterport comes in.
+                </mj-text>
+                <mj-spacer height="25px" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    Our AI-powered enterprise platform brings your site, design and documentation into a shared reality &mdash; designed to support how BCA&#8209;regulated builders and project managers actually work, from first capture through to TOP.
+
+                </mj-text>
+                <mj-spacer height="25px" />
+                <mj-button font-family="Roboto, Arial, sans-serif" background-color="#FF3158" color="#FFFFFF" font-size="12px" line-height="12px" font-weight="bold" padding="0" inner-padding="11px 22px 11px 22px" align="left" border-radius="50px" href="https://www.beyondthelens.com/sg/contact" target="_blank">
+                    Book a free demo
+                </mj-button>
+                
+            </mj-column>
+        </mj-section>
+       
+        <mj-section>
+            <mj-column padding="50px 23px 60px 23px">
+                <mj-text font-family="Roboto, Arial, sans-serif" color="#FF3158" font-size="24px" font-weight="bold" line-height="31px" padding-bottom="12px">
+                   HOW IT WORKS
+                </mj-text>
+                <mj-divider border-width="1px" border-style="solid" border-color="#FF3158" />
+                <mj-text font-family="Roboto, Arial, sans-serif" font-size="18px" line-height="23px" color="#FFFFFF" font-weight="bold" padding-top="30px">
+                    1.&nbsp;&nbsp;Capture Your Site
+                </mj-text>
+                <mj-image src="img/img-captureSite-554x269.png" alt="Capture your site" width="554px" align="center" padding="30px 0 30px 0" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    Your entire site can be captured into an accurate, measurable 3D model that's aligned with BCA 360-capture requirements, and ready to support virtual inspections and remote TOP workflows.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="0 23px 60px 23px">
+                <mj-text font-family="Roboto, Arial, sans-serif" font-size="18px" line-height="23px" color="#FFFFFF" font-weight="bold">
+                    2.&nbsp;&nbsp;Turn It Into Smart Data
+                </mj-text>
+                <mj-image src="img/TurnSmartData-554x269.png" alt="Turn It Into Smart Data" width="554px" align="center" padding="30px 0 30px 0" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    Scans are auto-processed into spatially accurate 3D models in hours, not days. And they can be exported into BIM, CAD and point cloud files like .E57 and .XYZ, anytime, anywhere.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="0 23px 0 23px">
+                <mj-text font-family="Roboto, Arial, sans-serif" font-size="18px" line-height="23px" color="#FFFFFF" font-weight="bold">
+                    3.&nbsp;&nbsp;Connect &amp; Collaborate
+                </mj-text>
+                <mj-image src="img/img-connectCollaborate-554x269.png" alt="Turn It Into Smart Data" width="554px" align="center" padding="30px 0 30px 0" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    One platform covers your full project lifecycle &mdash; design, construction, QA/QC and Facility Management handover &mdash; so everyone (architects, BIM, VDC and QA/QC, FM managers) is always working from a single source of truth.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="60px 23px 60px 23px">
+                <mj-text font-family="Roboto, Arial, sans-serif" color="#FF3158" font-size="24px" font-weight="bold" line-height="31px" padding-bottom="10px">
+                   WHY MATTERPORT?
+                </mj-text>
+                <mj-divider border-width="1px" border-style="solid" border-color="#FF3158" />
+                <mj-text font-family="Roboto, Arial, sans-serif" font-size="18px" line-height="23px" color="#FFFFFF" font-weight="bold" padding="30px 0 30px 0">
+                    Accurate BCA-compliant captures for remote TOP inspections
+                </mj-text>
+                <mj-image src="img/TurnSmartData-554x269.png" alt="Turn It Into Smart Data" width="554px" align="center" padding="0 0 30px 0" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF" padding-bottom="25px">
+                    Traditional surveying is often the biggest drag on top of your TOP timeline, and every day it slips risks liquidated damages.
+                 </mj-text>
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">                    
+                    Accelerate your TOP inspection workflows with BCA&#8209;compliant time&#8209;stamped, visual site records. Project teams and BCA inspectors can now monitor progress and conduct thorough inspections remotely, without a site visit standing between them and sign&#8209;off.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper padding="0 23px 60px 23px">
+            <mj-section background-color="#262626" border-left="6px #FF3158 solid" padding="20px">
+                <mj-column>
+                    <mj-text font-family="Roboto, Arial, sans-serif" font-size="18px" line-height="23px" font-weight="bold"  color="#FF3158" padding-bottom="10px">
+                        Case Study: How Takeneka cut costs with remote inspections
+                    </mj-text>
+                    <mj-text font-family="Roboto, Arial, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                        Takenaka cut the time to produce 360&#8209;degree site photographs by 90%, and eliminated the cost of expensive laser scanners altogether, saving thousands of dollars per scan.
+                    </mj-text>
+                    <mj-spacer height="20px" />
+                    <mj-button font-family="Roboto, Arial, sans-serif" background-color="#FF3158" color="#FFFFFF" font-size="12px" line-height="12px" font-weight="bold" padding="0" inner-padding="11px 22px 11px 22px" align="left" border-radius="50px" href="https://matterport.com/industries/case-studies/takenaka-corporation-uses-matterport-digital-twin-technology-building?srsltid=AfmBOoqDKxtuIO48ifzEIzmQh0hwDDpPVT0veplrwlqjVvBwQYmf9YZu" target="_blank">
+                        Read more
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+
+
+        <mj-section>
+            <mj-column padding="0 23px 60px 23px">
+                <mj-text font-family="Roboto, Arial, sans-serif" font-size="18px" line-height="23px" color="#FFFFFF" font-weight="bold">
+                    Protect your cash flow
+                </mj-text>
+                <mj-image src="img/img-catchIssues-554x269.png" alt="Protect your business from damage claims before you start building" width="554px" align="center" padding="20px 0 20px 0" />
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    Visual, time&#8209;stamped documentation substantiates completion milestones and supports payment disbursements, offering you clear site evidence if a payment dispute puts your cash flow at risk.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="0 23px 0 23px">
+                <mj-text font-family="Roboto, Arial, sans-serif" font-size="18px" line-height="23px" color="#FFFFFF" font-weight="bold">
+                    Now Available &ndash; The complete field kit for enterprise&#8209;grade capture
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+         <mj-section>
+            <mj-column>
+                <mj-image src="img/img-fieldKit-600x385.jpg" alt="he complete field kit for enterprise-grade capture" width="554px" align="center" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="0 23px 50px 23px">
+                <mj-text font-family="Arial, Helvetica, sans-serif" font-size="15px" line-height="20px" color="#FFFFFF">
+                    Everything you need to perform at the highest level on any site &mdash; now more accessible for teams ready to scale their capture program. The Pro3 Performance Kit includes the Pro3 camera, hard case, backpack, 2 removable batteries, tripod mount, 2 door stops, and charging kit.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0 23px 30px 23px">
+            <mj-column width="50%" padding="0 10px 15px 10px">
+                <mj-button font-family="Roboto, Arial, sans-serif" background-color="#FF3158" color="#2B2A2A" font-size="18px" line-height="23px" font-weight="bold" padding="0" inner-padding="20px 60px 20px 60px" align="left" border-radius="14px" width="100%" align="center" href="#">
+                    Performance Kit<br />
+                    <span style="color: #FFFFFF; font-weight: bold;">SG $6,300</span>
+                </mj-button>
+            </mj-column>
+            <mj-column width="50%" padding="0 10px 15px 10px">
+                <mj-button font-family="Roboto, Arial, sans-serif" background-color="#2B2A2A" color="#FF3158" font-size="18px" line-height="23px" font-weight="bold" padding="0" inner-padding="20px 60px 20px 60px" align="left" border-radius="14px" width="100%" align="center" href="#">
+                    Pro3 Camera<br />
+                    <span style="color: #FFFFFF; font-weight: bold;">SG $5,600</span>
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="0 23px 20px 23px">
+                <mj-divider border-width="1px" border-style="solid" border-color="#FF3158" />
+                    <mj-text font-family="Roboto, Arial, sans-serif" font-size="22px" line-height="29px" color="#FFFFFF" font-weight="bold" align="center" padding-top="40px">
+                        See how Matterport can work for your projects
+                    </mj-text>
+                    <mj-button font-family="Roboto, Arial, sans-serif" background-color="#FF3158" color="#FFFFFF" font-size="12px" line-height="12px" font-weight="bold" padding="30px 0 40px 0" inner-padding="11px 22px 11px 22px" align="center" border-radius="50px" href="https://www.beyondthelens.matterport.com/sg/contact" target="_blank">
+                    Book a free demo
+                </mj-button>
+                <mj-divider border-width="1px" border-style="solid" border-color="#FF3158" align="center" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-image src="img/img-footer-600x180.jpg" alt="Footer" width="600px" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column padding="23px">
+                <mj-text font-family="Roboto, Arial, sans-serif" font-size="10px" line-height="16px" color="#FFFFFF" font-weight="bold" align="center">
+                    <a href="{{unsubscribe}}" style="color: #FFFFFF; text-decoration: underline;" target="_blank">Unsubscribe</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
